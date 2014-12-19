@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'AzoSans';
+  src: url('../fonts/Rui Abreu - AzoSans-Regular.otf');
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('../fonts/Rui Abreu - AzoSans-Medium.otf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('../fonts/Rui Abreu - AzoSans-Bold.otf');
+  font-weight: bold;
+}
+
+body{
+	font-family: AzoSans, sans-serif;
+	margin: 0;
+	padding: 0;
+	background:#f25c5c;
+}
